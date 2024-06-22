@@ -1,6 +1,6 @@
 Write a function called describe_city() that accepts the name of 
-a city and its country. The function should print a simple sentence, such as 
-Reykjavik is in Iceland
+a city and its country as. The function should print a simple sentence, such as 
+Nairobi is in Kenya.
 
 Write a function called make_shirt() that accepts a size and the 
 text of a message that should be printed on the shirt. The function should print a 
