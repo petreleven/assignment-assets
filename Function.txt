@@ -1,7 +1,20 @@
-Write a function called describe_city() that accepts the name of 
-a city and its country as. The function should print a simple sentence, such as 
-Nairobi is in Kenya.
+1). Write a function called describe_city() that accepts the name of 
+  a city and its country as. The function should print a simple sentence, such as 
+  Nairobi is in Kenya.
 
-Write a function called make_shirt() that accepts a size and the 
-text of a message that should be printed on the shirt. The function should print a 
-sentence summarizing the size of the shirt and the message printed on it.
+
+
+2). CREATE A FUNCTION THAT ADDS TWO
+    NUMBERS a and b and prints a sentence
+    for the answer 
+    eg if a was 2 and b was 3 the function
+    will add the two numbers  and print
+    "The answer of adding 2 and 3 is 5"
+    
+    eg if a was 10 and b was 10 the function
+    will add the two numbers  and print
+    "The answer of adding 10 and 10 is 20"
+    
+    HINT://The function adds then prints , it does
+    not return anything
+
