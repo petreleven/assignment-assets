@@ -18,3 +18,16 @@
     HINT://The function adds then prints , it does
     not return anything
 
+2). CREATE A FUNCTION called multiply2_numbers_and_print() THAT multiplies TWO
+    NUMBERS a and b and prints a sentence
+    for the answer 
+    eg if a was 2 and b was 3 the function
+    will multiply the two numbers  and print
+    "The answer of multiplying 2 and 3 is 5"
+    
+    eg if a was 10 and b was 10 the function
+    will multiply the two numbers  and print
+    "The answer of multiplying 10 and 10 is 20"
+    
+    HINT://The function multiplies then prints , it does
+    not return anything
