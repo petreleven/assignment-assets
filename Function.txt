@@ -4,7 +4,7 @@
 
 
 
-2). CREATE A FUNCTION THAT ADDS TWO
+2). CREATE A FUNCTION called sum2_numbers_and_print() THAT ADDS TWO
     NUMBERS a and b and prints a sentence
     for the answer 
     eg if a was 2 and b was 3 the function
